@@ -2,7 +2,7 @@
 
 from ipdb_debugging import plus_two
 
-class TestIpdbDebugging:
+class TestIpdbDebupytestgging:
     '''ipdb_debugging.py'''
     
     def test_adds_two(self):
